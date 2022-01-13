@@ -1,4 +1,4 @@
-<code_scheme name="Moodle">
+<code_scheme name="Moodle" version="173">
   <option name="LINE_SEPARATOR" value="&#xA;" />
   <option name="RIGHT_MARGIN" value="180" />
   <PHPCodeStyleSettings>
@@ -10,9 +10,6 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
   </PHPCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="PHP">
     <option name="RIGHT_MARGIN" value="132" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
